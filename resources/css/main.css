@@ -1,0 +1,8 @@
+.circle {
+    margin-top: 5em;
+    background: #456BD9;
+    clip-path: circle(50%);
+    height: 5em;
+    width: 5em;
+    visibility: hidden;
+}

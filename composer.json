@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "name": "ko4a",
+            "email": "slavakochnevcase@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "php/"
+        }
+    }
+}
